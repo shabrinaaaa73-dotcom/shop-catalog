@@ -10,13 +10,12 @@ Aplikasi mobile katalog produk berbasis React Native (Expo) yang mengonsumsi RES
 <!-- Ganti gambar di bawah dengan screenshot asli kamu (drag & drop ke repo GitHub) -->
 | Loading (Skeleton) | Success | Error |
 |---|---|---|
-| ![Loading](screenshots/loading.png) | ![Success](screenshots/success.png) | ![Error](screenshots/error.png) |
+| ![Loading](screenshots/loading.jpeg) | ![Success](screenshots/succes.jpeg) | ![Error](screenshots/error.jpeg) |
 
 ### Fitur Tambahan
-| Search & Filter | Detail Modal | Favorit |
+| Urutan | 
 |---|---|---|
-| ![Search](screenshots/search.png) | ![Detail](screenshots/detail.png) | ![Favorit](screenshots/favorit.png) |
-
+| ![Search](screenshots/fitur.jpeg) |
 > 📌 **Cara upload screenshot:** buat folder `screenshots/` di root repo, lalu drag & drop file PNG dari Expo Go ke GitHub atau jalankan `git add screenshots/` setelah disimpan.
 
 ---
