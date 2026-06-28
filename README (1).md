@@ -115,6 +115,12 @@ Scan QR code yang muncul di terminal menggunakan aplikasi **Expo Go**.
 
 ---
 
+## 🔗 Links
+
+- **Expo Snack:** [snack.expo.dev/...](https://snack.expo.dev/@shb73/shopcatalog) ← *ganti dengan link Snack kamu*
+
+---
+
 ## 📝 Commit History (Conventional Commits)
 
 ```
